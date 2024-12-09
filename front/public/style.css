@@ -65,10 +65,9 @@ button {
 }
 
 
-#imageContainer{
+#imageContainer img{
     height: 100%;
-    width: auto;
-
+    width: 30rem;
 }
 #classProduto{
     width: 300px;
